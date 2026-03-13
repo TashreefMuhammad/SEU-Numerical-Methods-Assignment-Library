@@ -1,4 +1,65 @@
 {
   "semester": "Fall 2025",
-  "projects": []
+  "projects": [
+    {
+      "group": "Hercules",
+      "title": "Hercules Numerical Methods Project",
+      "repo": "https://github.com/shimantosarkar677-web/NUMERICAL-METHODS-ASSIGNMENT"
+    },
+    {
+      "group": "Orion",
+      "title": "Orion Numerical Methods Project",
+      "repo": "https://github.com/saiduzzaman-sojib/Gaussian-Quadrature"
+    },
+    {
+      "group": "Pegasus",
+      "title": "Pegasus Numerical Methods Project",
+      "repo": "https://github.com/OxV3geta/Euler-Modified-Euler-Heun-Methods-CSE261-"
+    },
+    {
+      "group": "Perseus",
+      "title": "Perseus Numerical Methods Project",
+      "repo": "https://github.com/Abdul-ahad-emon/Perseus_Numerical_Project"
+    },
+    {
+      "group": "Puppis",
+      "title": "Puppis Numerical Methods Project",
+      "repo": "https://github.com/Ornab10/TeamPuppis3.0"
+    },
+    {
+      "group": "Cepheus",
+      "title": "Cepheus Numerical Methods Project",
+      "repo": "https://github.com/Darkhaxxor005/Laplace-2D-Equation-Solve"
+    },
+    {
+      "group": "Draco",
+      "title": "Draco Numerical Methods Project",
+      "repo": "https://github.com/rafin2312/Numerical_assingment-fall2025"
+    },
+    {
+      "group": "Andromeda",
+      "title": "Andromeda Numerical Methods Project",
+      "repo": "https://github.com/nahidmahmud71/Numerical-Newton-Cotes-Andromeda"
+    },
+    {
+      "group": "Cassiopeia",
+      "title": "Cassiopeia Numerical Methods Project",
+      "repo": "https://github.com/Shakhawat-Shuvo-71/Cassiopeia"
+    },
+    {
+      "group": "Aquila",
+      "title": "Aquila Numerical Methods Project",
+      "repo": "https://github.com/Bushra365-end/Differentiation-of-noisy-data"
+    },
+    {
+      "group": "Carina",
+      "title": "Carina Numerical Methods Project",
+      "repo": "https://github.com/tushar0289/CSE261_Fall2025_Topic12_HeatEquation"
+    },
+    {
+      "group": "Cygnus",
+      "title": "Cygnus Numerical Methods Project",
+      "repo": "https://github.com/rahibraihan/cygnus"
+    }
+  ]
 }
