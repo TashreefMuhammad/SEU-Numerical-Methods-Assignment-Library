@@ -1,52 +1,98 @@
-{
-  "items": [
-    {
-      "group": "Hercules",
-      "repo": "https://github.com/shimantosarkar677-web/NUMERICAL-METHODS-ASSIGNMENT"
-    },
-    {
-      "group": "Orion",
-      "repo": "https://github.com/saiduzzaman-sojib/Gaussian-Quadrature"
-    },
-    {
-      "group": "Pegasus",
-      "repo": "https://github.com/OxV3geta/Euler-Modified-Euler-Heun-Methods-CSE261-"
-    },
-    {
-      "group": "Perseus",
-      "repo": "https://github.com/Abdul-ahad-emon/Perseus_Numerical_Project"
-    },
-    {
-      "group": "Puppis",
-      "repo": "https://github.com/Ornab10/TeamPuppis3.0"
-    },
-    {
-      "group": "Cepheus",
-      "repo": "https://github.com/Darkhaxxor005/Laplace-2D-Equation-Solve"
-    },
-    {
-      "group": "Draco",
-      "repo": "https://github.com/rafin2312/Numerical_assingment-fall2025"
-    },
-    {
-      "group": "Andromeda",
-      "repo": "https://github.com/nahidmahmud71/Numerical-Newton-Cotes-Andromeda"
-    },
-    {
-      "group": "Cassiopeia",
-      "repo": "https://github.com/Shakhawat-Shuvo-71/Cassiopeia"
-    },
-    {
-      "group": "Aquila",
-      "repo": "https://github.com/Bushra365-end/Differentiation-of-noisy-data"
-    },
-    {
-      "group": "Carina",
-      "repo": "https://github.com/tushar0289/CSE261_Fall2025_Topic12_HeatEquation"
-    },
-    {
-      "group": "Cygnus",
-      "repo": "https://github.com/rahibraihan/cygnus"
-    }
-  ]
-}
+[
+  {
+    "name": "NUMERICAL-METHODS-ASSIGNMENT",
+    "path": "shimantosarkar677-web/NUMERICAL-METHODS-ASSIGNMENT",
+    "url": "https://github.com/shimantosarkar677-web/NUMERICAL-METHODS-ASSIGNMENT",
+    "updatedAt": "2026-01-01T00:00:00Z",
+    "description": "Group Hercules Numerical Methods Project",
+    "contributors": []
+  },
+  {
+    "name": "Gaussian-Quadrature",
+    "path": "saiduzzaman-sojib/Gaussian-Quadrature",
+    "url": "https://github.com/saiduzzaman-sojib/Gaussian-Quadrature",
+    "updatedAt": "2026-01-01T00:00:00Z",
+    "description": "Group Orion Numerical Methods Project",
+    "contributors": []
+  },
+  {
+    "name": "Euler-Modified-Euler-Heun-Methods-CSE261",
+    "path": "OxV3geta/Euler-Modified-Euler-Heun-Methods-CSE261-",
+    "url": "https://github.com/OxV3geta/Euler-Modified-Euler-Heun-Methods-CSE261-",
+    "updatedAt": "2026-01-01T00:00:00Z",
+    "description": "Group Pegasus Numerical Methods Project",
+    "contributors": []
+  },
+  {
+    "name": "Perseus_Numerical_Project",
+    "path": "Abdul-ahad-emon/Perseus_Numerical_Project",
+    "url": "https://github.com/Abdul-ahad-emon/Perseus_Numerical_Project",
+    "updatedAt": "2026-01-01T00:00:00Z",
+    "description": "Group Perseus Numerical Methods Project",
+    "contributors": []
+  },
+  {
+    "name": "TeamPuppis3.0",
+    "path": "Ornab10/TeamPuppis3.0",
+    "url": "https://github.com/Ornab10/TeamPuppis3.0",
+    "updatedAt": "2026-01-01T00:00:00Z",
+    "description": "Group Puppis Numerical Methods Project",
+    "contributors": []
+  },
+  {
+    "name": "Laplace-2D-Equation-Solve",
+    "path": "Darkhaxxor005/Laplace-2D-Equation-Solve",
+    "url": "https://github.com/Darkhaxxor005/Laplace-2D-Equation-Solve",
+    "updatedAt": "2026-01-01T00:00:00Z",
+    "description": "Group Cepheus Numerical Methods Project",
+    "contributors": []
+  },
+  {
+    "name": "Numerical_assingment-fall2025",
+    "path": "rafin2312/Numerical_assingment-fall2025",
+    "url": "https://github.com/rafin2312/Numerical_assingment-fall2025",
+    "updatedAt": "2026-01-01T00:00:00Z",
+    "description": "Group Draco Numerical Methods Project",
+    "contributors": []
+  },
+  {
+    "name": "Numerical-Newton-Cotes-Andromeda",
+    "path": "nahidmahmud71/Numerical-Newton-Cotes-Andromeda",
+    "url": "https://github.com/nahidmahmud71/Numerical-Newton-Cotes-Andromeda",
+    "updatedAt": "2026-01-01T00:00:00Z",
+    "description": "Group Andromeda Numerical Methods Project",
+    "contributors": []
+  },
+  {
+    "name": "Cassiopeia",
+    "path": "Shakhawat-Shuvo-71/Cassiopeia",
+    "url": "https://github.com/Shakhawat-Shuvo-71/Cassiopeia",
+    "updatedAt": "2026-01-01T00:00:00Z",
+    "description": "Group Cassiopeia Numerical Methods Project",
+    "contributors": []
+  },
+  {
+    "name": "Differentiation-of-noisy-data",
+    "path": "Bushra365-end/Differentiation-of-noisy-data",
+    "url": "https://github.com/Bushra365-end/Differentiation-of-noisy-data",
+    "updatedAt": "2026-01-01T00:00:00Z",
+    "description": "Group Aquila Numerical Methods Project",
+    "contributors": []
+  },
+  {
+    "name": "CSE261_Fall2025_Topic12_HeatEquation",
+    "path": "tushar0289/CSE261_Fall2025_Topic12_HeatEquation",
+    "url": "https://github.com/tushar0289/CSE261_Fall2025_Topic12_HeatEquation",
+    "updatedAt": "2026-01-01T00:00:00Z",
+    "description": "Group Carina Numerical Methods Project",
+    "contributors": []
+  },
+  {
+    "name": "cygnus",
+    "path": "rahibraihan/cygnus",
+    "url": "https://github.com/rahibraihan/cygnus",
+    "updatedAt": "2026-01-01T00:00:00Z",
+    "description": "Group Cygnus Numerical Methods Project",
+    "contributors": []
+  }
+]
