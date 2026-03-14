@@ -1,98 +1,440 @@
 [
   {
-    "name": "NUMERICAL-METHODS-ASSIGNMENT",
-    "path": "shimantosarkar677-web/NUMERICAL-METHODS-ASSIGNMENT",
-    "url": "https://github.com/shimantosarkar677-web/NUMERICAL-METHODS-ASSIGNMENT",
-    "updatedAt": "2026-01-01T00:00:00Z",
-    "description": "Group Hercules Numerical Methods Project",
-    "contributors": []
-  },
-  {
-    "name": "Gaussian-Quadrature",
-    "path": "saiduzzaman-sojib/Gaussian-Quadrature",
-    "url": "https://github.com/saiduzzaman-sojib/Gaussian-Quadrature",
-    "updatedAt": "2026-01-01T00:00:00Z",
-    "description": "Group Orion Numerical Methods Project",
-    "contributors": []
-  },
-  {
-    "name": "Euler-Modified-Euler-Heun-Methods-CSE261",
-    "path": "OxV3geta/Euler-Modified-Euler-Heun-Methods-CSE261-",
-    "url": "https://github.com/OxV3geta/Euler-Modified-Euler-Heun-Methods-CSE261-",
-    "updatedAt": "2026-01-01T00:00:00Z",
-    "description": "Group Pegasus Numerical Methods Project",
-    "contributors": []
-  },
-  {
-    "name": "Perseus_Numerical_Project",
-    "path": "Abdul-ahad-emon/Perseus_Numerical_Project",
-    "url": "https://github.com/Abdul-ahad-emon/Perseus_Numerical_Project",
-    "updatedAt": "2026-01-01T00:00:00Z",
-    "description": "Group Perseus Numerical Methods Project",
-    "contributors": []
-  },
-  {
-    "name": "TeamPuppis3.0",
-    "path": "Ornab10/TeamPuppis3.0",
-    "url": "https://github.com/Ornab10/TeamPuppis3.0",
-    "updatedAt": "2026-01-01T00:00:00Z",
-    "description": "Group Puppis Numerical Methods Project",
-    "contributors": []
-  },
-  {
-    "name": "Laplace-2D-Equation-Solve",
-    "path": "Darkhaxxor005/Laplace-2D-Equation-Solve",
-    "url": "https://github.com/Darkhaxxor005/Laplace-2D-Equation-Solve",
-    "updatedAt": "2026-01-01T00:00:00Z",
-    "description": "Group Cepheus Numerical Methods Project",
-    "contributors": []
-  },
-  {
-    "name": "Numerical_assingment-fall2025",
-    "path": "rafin2312/Numerical_assingment-fall2025",
-    "url": "https://github.com/rafin2312/Numerical_assingment-fall2025",
-    "updatedAt": "2026-01-01T00:00:00Z",
-    "description": "Group Draco Numerical Methods Project",
-    "contributors": []
-  },
-  {
-    "name": "Numerical-Newton-Cotes-Andromeda",
-    "path": "nahidmahmud71/Numerical-Newton-Cotes-Andromeda",
-    "url": "https://github.com/nahidmahmud71/Numerical-Newton-Cotes-Andromeda",
-    "updatedAt": "2026-01-01T00:00:00Z",
-    "description": "Group Andromeda Numerical Methods Project",
-    "contributors": []
-  },
-  {
     "name": "Cassiopeia",
     "path": "Shakhawat-Shuvo-71/Cassiopeia",
     "url": "https://github.com/Shakhawat-Shuvo-71/Cassiopeia",
-    "updatedAt": "2026-01-01T00:00:00Z",
-    "description": "Group Cassiopeia Numerical Methods Project",
-    "contributors": []
-  },
-  {
-    "name": "Differentiation-of-noisy-data",
-    "path": "Bushra365-end/Differentiation-of-noisy-data",
-    "url": "https://github.com/Bushra365-end/Differentiation-of-noisy-data",
-    "updatedAt": "2026-01-01T00:00:00Z",
-    "description": "Group Aquila Numerical Methods Project",
-    "contributors": []
+    "updatedAt": "2026-01-14T21:15:13Z",
+    "description": "Basic Finite Difference Methods",
+    "contributors": [
+      {
+        "login": "suborna-a",
+        "avatar_url": "https://avatars.githubusercontent.com/u/251335248?v=4",
+        "html_url": "https://github.com/suborna-a"
+      },
+      {
+        "login": "Shakhawat-Shuvo-71",
+        "avatar_url": "https://avatars.githubusercontent.com/u/254298868?v=4",
+        "html_url": "https://github.com/Shakhawat-Shuvo-71"
+      },
+      {
+        "login": "PinakBarai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/250618285?v=4",
+        "html_url": "https://github.com/PinakBarai"
+      },
+      {
+        "login": "suborna4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/219136562?v=4",
+        "html_url": "https://github.com/suborna4"
+      },
+      {
+        "login": "SabbirEmon2002",
+        "avatar_url": "https://avatars.githubusercontent.com/u/251300111?v=4",
+        "html_url": "https://github.com/SabbirEmon2002"
+      },
+      {
+        "login": "tasnimislam841",
+        "avatar_url": "https://avatars.githubusercontent.com/u/251690731?v=4",
+        "html_url": "https://github.com/tasnimislam841"
+      }
+    ]
   },
   {
     "name": "CSE261_Fall2025_Topic12_HeatEquation",
     "path": "tushar0289/CSE261_Fall2025_Topic12_HeatEquation",
     "url": "https://github.com/tushar0289/CSE261_Fall2025_Topic12_HeatEquation",
-    "updatedAt": "2026-01-01T00:00:00Z",
-    "description": "Group Carina Numerical Methods Project",
-    "contributors": []
+    "updatedAt": "2026-01-15T04:21:51Z",
+    "description": "Numerical analysis of 1D Heat Equation. A comparision between the explicit FTCS method and implicit Crank-Nicolson Methos using Thomas Algorithm",
+    "contributors": [
+      {
+        "login": "tushar0289",
+        "avatar_url": "https://avatars.githubusercontent.com/u/190056372?v=4",
+        "html_url": "https://github.com/tushar0289"
+      }
+    ]
   },
   {
     "name": "cygnus",
     "path": "rahibraihan/cygnus",
     "url": "https://github.com/rahibraihan/cygnus",
-    "updatedAt": "2026-01-01T00:00:00Z",
-    "description": "Group Cygnus Numerical Methods Project",
-    "contributors": []
+    "updatedAt": "2026-01-14T17:30:51Z",
+    "description": "",
+    "contributors": [
+      {
+        "login": "rahibraihan",
+        "avatar_url": "https://avatars.githubusercontent.com/u/189452903?v=4",
+        "html_url": "https://github.com/rahibraihan"
+      },
+      {
+        "login": "isratila1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252633918?v=4",
+        "html_url": "https://github.com/isratila1"
+      },
+      {
+        "login": "tanim409",
+        "avatar_url": "https://avatars.githubusercontent.com/u/237315804?v=4",
+        "html_url": "https://github.com/tanim409"
+      },
+      {
+        "login": "2022000000141-ux",
+        "avatar_url": "https://avatars.githubusercontent.com/u/250655580?v=4",
+        "html_url": "https://github.com/2022000000141-ux"
+      },
+      {
+        "login": "2024100000276-mts",
+        "avatar_url": "https://avatars.githubusercontent.com/u/253243475?v=4",
+        "html_url": "https://github.com/2024100000276-mts"
+      },
+      {
+        "login": "Ramisaramu27",
+        "avatar_url": "https://avatars.githubusercontent.com/u/188967371?v=4",
+        "html_url": "https://github.com/Ramisaramu27"
+      }
+    ]
+  },
+  {
+    "name": "Differentiation-of-noisy-data",
+    "path": "Bushra365-end/Differentiation-of-noisy-data",
+    "url": "https://github.com/Bushra365-end/Differentiation-of-noisy-data",
+    "updatedAt": "2026-01-14T16:22:15Z",
+    "description": "",
+    "contributors": [
+      {
+        "login": "Bushra365-end",
+        "avatar_url": "https://avatars.githubusercontent.com/u/251836848?v=4",
+        "html_url": "https://github.com/Bushra365-end"
+      },
+      {
+        "login": "amychicham",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252346194?v=4",
+        "html_url": "https://github.com/amychicham"
+      },
+      {
+        "login": "2024100000229-shifa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252346789?v=4",
+        "html_url": "https://github.com/2024100000229-shifa"
+      },
+      {
+        "login": "alif218919209",
+        "avatar_url": "https://avatars.githubusercontent.com/u/190510893?v=4",
+        "html_url": "https://github.com/alif218919209"
+      },
+      {
+        "login": "Rafa2628",
+        "avatar_url": "https://avatars.githubusercontent.com/u/177220053?v=4",
+        "html_url": "https://github.com/Rafa2628"
+      },
+      {
+        "login": "ripa52644-lang",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252358969?v=4",
+        "html_url": "https://github.com/ripa52644-lang"
+      }
+    ]
+  },
+  {
+    "name": "Euler-Modified-Euler-Heun-Methods-CSE261-",
+    "path": "OxV3geta/Euler-Modified-Euler-Heun-Methods-CSE261-",
+    "url": "https://github.com/OxV3geta/Euler-Modified-Euler-Heun-Methods-CSE261-",
+    "updatedAt": "2026-01-14T17:53:31Z",
+    "description": "",
+    "contributors": [
+      {
+        "login": "OxV3geta",
+        "avatar_url": "https://avatars.githubusercontent.com/u/166390684?v=4",
+        "html_url": "https://github.com/OxV3geta"
+      },
+      {
+        "login": "riyadzaman",
+        "avatar_url": "https://avatars.githubusercontent.com/u/250799288?v=4",
+        "html_url": "https://github.com/riyadzaman"
+      },
+      {
+        "login": "NuraNusratJannat",
+        "avatar_url": "https://avatars.githubusercontent.com/u/254237848?v=4",
+        "html_url": "https://github.com/NuraNusratJannat"
+      },
+      {
+        "login": "tawfiqalibad-web",
+        "avatar_url": "https://avatars.githubusercontent.com/u/254497943?v=4",
+        "html_url": "https://github.com/tawfiqalibad-web"
+      },
+      {
+        "login": "mahjebeen-06",
+        "avatar_url": "https://avatars.githubusercontent.com/u/253529832?v=4",
+        "html_url": "https://github.com/mahjebeen-06"
+      },
+      {
+        "login": "PritomChowdhury007",
+        "avatar_url": "https://avatars.githubusercontent.com/u/254280840?v=4",
+        "html_url": "https://github.com/PritomChowdhury007"
+      }
+    ]
+  },
+  {
+    "name": "Gaussian-Quadrature",
+    "path": "saiduzzaman-sojib/Gaussian-Quadrature",
+    "url": "https://github.com/saiduzzaman-sojib/Gaussian-Quadrature",
+    "updatedAt": "2026-01-13T09:54:31Z",
+    "description": "",
+    "contributors": [
+      {
+        "login": "saiduzzaman-sojib",
+        "avatar_url": "https://avatars.githubusercontent.com/u/228159556?v=4",
+        "html_url": "https://github.com/saiduzzaman-sojib"
+      },
+      {
+        "login": "TasmeoulMiyad",
+        "avatar_url": "https://avatars.githubusercontent.com/u/191355268?v=4",
+        "html_url": "https://github.com/TasmeoulMiyad"
+      },
+      {
+        "login": "fahimsr01712",
+        "avatar_url": "https://avatars.githubusercontent.com/u/191001281?v=4",
+        "html_url": "https://github.com/fahimsr01712"
+      },
+      {
+        "login": "trisha1031",
+        "avatar_url": "https://avatars.githubusercontent.com/u/253962398?v=4",
+        "html_url": "https://github.com/trisha1031"
+      },
+      {
+        "login": "ArianTithy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/253325771?v=4",
+        "html_url": "https://github.com/ArianTithy"
+      },
+      {
+        "login": "nomanishak420",
+        "avatar_url": "https://avatars.githubusercontent.com/u/253727126?v=4",
+        "html_url": "https://github.com/nomanishak420"
+      }
+    ]
+  },
+  {
+    "name": "Laplace-2D-Equation-Solve",
+    "path": "Darkhaxxor005/Laplace-2D-Equation-Solve",
+    "url": "https://github.com/Darkhaxxor005/Laplace-2D-Equation-Solve",
+    "updatedAt": "2026-01-13T15:37:26Z",
+    "description": "",
+    "contributors": [
+      {
+        "login": "Darkhaxxor005",
+        "avatar_url": "https://avatars.githubusercontent.com/u/74395487?v=4",
+        "html_url": "https://github.com/Darkhaxxor005"
+      },
+      {
+        "login": "sadiaislamprima89",
+        "avatar_url": "https://avatars.githubusercontent.com/u/254690715?v=4",
+        "html_url": "https://github.com/sadiaislamprima89"
+      },
+      {
+        "login": "raihan-420",
+        "avatar_url": "https://avatars.githubusercontent.com/u/253521370?v=4",
+        "html_url": "https://github.com/raihan-420"
+      },
+      {
+        "login": "Mahamudulhasan07",
+        "avatar_url": "https://avatars.githubusercontent.com/u/253322041?v=4",
+        "html_url": "https://github.com/Mahamudulhasan07"
+      },
+      {
+        "login": "mimakter54483",
+        "avatar_url": "https://avatars.githubusercontent.com/u/253325280?v=4",
+        "html_url": "https://github.com/mimakter54483"
+      },
+      {
+        "login": "sayedalsahaf5",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252355628?v=4",
+        "html_url": "https://github.com/sayedalsahaf5"
+      }
+    ]
+  },
+  {
+    "name": "Numerical_assingment-fall2025",
+    "path": "rafin2312/Numerical_assingment-fall2025",
+    "url": "https://github.com/rafin2312/Numerical_assingment-fall2025",
+    "updatedAt": "2026-01-14T11:01:24Z",
+    "description": "Heat Equation – Explicit FTCS Coding: ● Implement explicit finite difference schemes. ● Demonstrate stability condition (r ≤ 0.5). Required Results: ● Diffusion visualization. ● Instability demonstration for r > 0.5. Plots: ● 2D temperature evolution. ● Stability graphs.",
+    "contributors": [
+      {
+        "login": "rafin2312",
+        "avatar_url": "https://avatars.githubusercontent.com/u/128740820?v=4",
+        "html_url": "https://github.com/rafin2312"
+      },
+      {
+        "login": "LABIBSIDDIKY",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252138084?v=4",
+        "html_url": "https://github.com/LABIBSIDDIKY"
+      },
+      {
+        "login": "2024000000333-alt",
+        "avatar_url": "https://avatars.githubusercontent.com/u/254703019?v=4",
+        "html_url": "https://github.com/2024000000333-alt"
+      },
+      {
+        "login": "alidshuvo20",
+        "avatar_url": "https://avatars.githubusercontent.com/u/72872913?v=4",
+        "html_url": "https://github.com/alidshuvo20"
+      },
+      {
+        "login": "ferdouszannatul569-lgtm",
+        "avatar_url": "https://avatars.githubusercontent.com/u/253424107?v=4",
+        "html_url": "https://github.com/ferdouszannatul569-lgtm"
+      },
+      {
+        "login": "ekonsamia357",
+        "avatar_url": "https://avatars.githubusercontent.com/u/253425007?v=4",
+        "html_url": "https://github.com/ekonsamia357"
+      }
+    ]
+  },
+  {
+    "name": "NUMERICAL-METHODS-ASSIGNMENT",
+    "path": "shimantosarkar677-web/NUMERICAL-METHODS-ASSIGNMENT",
+    "url": "https://github.com/shimantosarkar677-web/NUMERICAL-METHODS-ASSIGNMENT",
+    "updatedAt": "2026-01-14T14:18:45Z",
+    "description": "",
+    "contributors": [
+      {
+        "login": "shimantosarkar677-web",
+        "avatar_url": "https://avatars.githubusercontent.com/u/254212841?v=4",
+        "html_url": "https://github.com/shimantosarkar677-web"
+      },
+      {
+        "login": "orny01",
+        "avatar_url": "https://avatars.githubusercontent.com/u/155878036?v=4",
+        "html_url": "https://github.com/orny01"
+      },
+      {
+        "login": "2024000000274-commits",
+        "avatar_url": "https://avatars.githubusercontent.com/u/246458058?v=4",
+        "html_url": "https://github.com/2024000000274-commits"
+      },
+      {
+        "login": "fahimengineer9-design",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252302528?v=4",
+        "html_url": "https://github.com/fahimengineer9-design"
+      },
+      {
+        "login": "2024100000142-debug",
+        "avatar_url": "https://avatars.githubusercontent.com/u/254297783?v=4",
+        "html_url": "https://github.com/2024100000142-debug"
+      },
+      {
+        "login": "2024100000562-star",
+        "avatar_url": "https://avatars.githubusercontent.com/u/254298744?v=4",
+        "html_url": "https://github.com/2024100000562-star"
+      }
+    ]
+  },
+  {
+    "name": "Numerical-Newton-Cotes-Andromeda",
+    "path": "nahidmahmud71/Numerical-Newton-Cotes-Andromeda",
+    "url": "https://github.com/nahidmahmud71/Numerical-Newton-Cotes-Andromeda",
+    "updatedAt": "2026-01-13T16:42:49Z",
+    "description": "Implementation of Newton-Cotes Formulas (Trapezoidal, Simpson's 1/3 & 3/8 Rules) for Numerical Methods (CSE 261) by Team BD71.",
+    "contributors": [
+      {
+        "login": "nahidmahmud71",
+        "avatar_url": "https://avatars.githubusercontent.com/u/250070128?v=4",
+        "html_url": "https://github.com/nahidmahmud71"
+      },
+      {
+        "login": "CodeByAshraful",
+        "avatar_url": "https://avatars.githubusercontent.com/u/190663206?v=4",
+        "html_url": "https://github.com/CodeByAshraful"
+      },
+      {
+        "login": "shihab0p",
+        "avatar_url": "https://avatars.githubusercontent.com/u/250993061?v=4",
+        "html_url": "https://github.com/shihab0p"
+      },
+      {
+        "login": "fatemarim",
+        "avatar_url": "https://avatars.githubusercontent.com/u/250991797?v=4",
+        "html_url": "https://github.com/fatemarim"
+      },
+      {
+        "login": "itsfatema161",
+        "avatar_url": "https://avatars.githubusercontent.com/u/250547657?v=4",
+        "html_url": "https://github.com/itsfatema161"
+      },
+      {
+        "login": "sif-fahim-434",
+        "avatar_url": "https://avatars.githubusercontent.com/u/250481372?v=4",
+        "html_url": "https://github.com/sif-fahim-434"
+      }
+    ]
+  },
+  {
+    "name": "Perseus_Numerical_Project",
+    "path": "Abdul-ahad-emon/Perseus_Numerical_Project",
+    "url": "https://github.com/Abdul-ahad-emon/Perseus_Numerical_Project",
+    "updatedAt": "2026-01-15T06:00:46Z",
+    "description": "Numerical Methods Assignment: Implementation and analysis of Romberg Integration with comparison to Simpson’s and Trapezoidal rules, including error and convergence analysis.",
+    "contributors": [
+      {
+        "login": "sarhansaad2004",
+        "avatar_url": "https://avatars.githubusercontent.com/u/169010990?v=4",
+        "html_url": "https://github.com/sarhansaad2004"
+      },
+      {
+        "login": "Abdul-ahad-emon",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252766343?v=4",
+        "html_url": "https://github.com/Abdul-ahad-emon"
+      },
+      {
+        "login": "rehankhadem",
+        "avatar_url": "https://avatars.githubusercontent.com/u/183286919?v=4",
+        "html_url": "https://github.com/rehankhadem"
+      },
+      {
+        "login": "ShahNaohajKhan2005",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252771456?v=4",
+        "html_url": "https://github.com/ShahNaohajKhan2005"
+      },
+      {
+        "login": "md-mesbah-rana04",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252834313?v=4",
+        "html_url": "https://github.com/md-mesbah-rana04"
+      },
+      {
+        "login": "Antor165",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252778298?v=4",
+        "html_url": "https://github.com/Antor165"
+      }
+    ]
+  },
+  {
+    "name": "TeamPuppis3.0",
+    "path": "Ornab10/TeamPuppis3.0",
+    "url": "https://github.com/Ornab10/TeamPuppis3.0",
+    "updatedAt": "2026-03-03T14:14:42Z",
+    "description": "",
+    "contributors": [
+      {
+        "login": "Ornab10",
+        "avatar_url": "https://avatars.githubusercontent.com/u/199773236?v=4",
+        "html_url": "https://github.com/Ornab10"
+      },
+      {
+        "login": "programming6090",
+        "avatar_url": "https://avatars.githubusercontent.com/u/191010617?v=4",
+        "html_url": "https://github.com/programming6090"
+      },
+      {
+        "login": "Bappyosman",
+        "avatar_url": "https://avatars.githubusercontent.com/u/154831596?v=4",
+        "html_url": "https://github.com/Bappyosman"
+      },
+      {
+        "login": "rupaisfat-sudo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252602690?v=4",
+        "html_url": "https://github.com/rupaisfat-sudo"
+      },
+      {
+        "login": "izazahmedifat5",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252705342?v=4",
+        "html_url": "https://github.com/izazahmedifat5"
+      }
+    ]
   }
 ]
