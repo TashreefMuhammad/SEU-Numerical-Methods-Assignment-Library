@@ -35,7 +35,77 @@ jobs:
             const repo  = context.repo.repo;
 
             // 1) Read README (base64) -> plain text
-            const readme = await github.request('GET /repos/{owner}/{repo}/readme', { owner, repo });
+            const fs = require('fs');
+
+            const semesterPath = "(2025_2) Fall 2025"; // change when needed
+            const md = fs.readFileSync(`${semesterPath}/README.md`, "utf8");
+            
+            const links = Array.from(md.matchAll(/https?:\/\/github\.com\/([\w-]+)\/([\w.-]+)/g))
+              .map(m => ({ owner: m[1], name: m[2], url: m[0] }));
+            
+            const seen = new Set();
+            const repos = links.filter(r => {
+              const key = `${r.owner}/${r.name}`;
+              if (seen.has(key)) return false;
+              seen.add(key);
+              return true;
+            });
+            
+            const out = [];
+            
+            for (const r of repos) {
+            
+              try {
+            
+                const meta = await github.request('GET /repos/{owner}/{repo}', {
+                  owner: r.owner,
+                  repo: r.name
+                });
+            
+                let contribs = [];
+            
+                try {
+                  const c = await github.request('GET /repos/{owner}/{repo}/contributors', {
+                    owner: r.owner,
+                    repo: r.name,
+                    per_page: 6
+                  });
+            
+                  contribs = (c.data || []).map(u => ({
+                    login: u.login,
+                    avatar_url: u.avatar_url,
+                    html_url: u.html_url
+                  }));
+            
+                } catch (e) {}
+            
+                out.push({
+                  name: meta.data.name,
+                  path: `${r.owner}/${r.name}`,
+                  url: meta.data.html_url,
+                  updatedAt: meta.data.pushed_at,
+                  description: meta.data.description || '',
+                  contributors: contribs
+                });
+            
+              } catch (e) {
+            
+                out.push({
+                  name: `${r.owner}/${r.name}`,
+                  path: `${r.owner}/${r.name}`,
+                  url: r.url,
+                  updatedAt: null,
+                  description: '',
+                  contributors: []
+                });
+            
+              }
+            
+            }
+            
+            out.sort((a,b)=>a.name.localeCompare(b.name));
+            
+            fs.writeFileSync(`${semesterPath}/projects.json`, JSON.stringify(out,null,2));
             const md = Buffer.from(readme.data.content, 'base64').toString('utf8');
 
             // 2) Extract github.com/<owner>/<repo> links (http or https)
@@ -104,4 +174,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update projects.json"
-          file_pattern: projects.json
+          file_pattern: "**/projects.json"
